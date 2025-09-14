@@ -1,0 +1,20 @@
+[2025-09-13 21:25:52] monitor started on D:\pyhton\dist
+[2025-09-13 21:26:50] monitor stopped
+[2025-09-13 21:34:09] monitor started on D:\pyhton\dist
+[2025-09-13 21:34:26] monitor stopped
+[2025-09-13 22:21:37] monitor started on D:\pyhton\dist
+[2025-09-13 22:21:45] monitor started on D:\pyhton\dist
+[2025-09-13 22:22:18] deleted .\sheee.txt
+[2025-09-13 22:22:21] created .\New Text Document.txt
+[2025-09-13 22:22:51] deleted .\shee.txt
+[2025-09-13 22:22:51] created .\logs\shee.txt
+[2025-09-13 22:22:51] created .\logs\shee.txt
+[2025-09-13 22:23:22] deleted .\logs\shee.txt
+[2025-09-13 22:23:22] deleted .\logs\shee.txt
+[2025-09-13 22:23:22] created .\shee.txt
+[2025-09-13 22:23:22] created .\shee.txt
+[2025-09-13 22:28:25] monitor started on D:\pyhton\dist
+[2025-09-13 22:29:11] deleted .\shee.txt
+[2025-09-13 22:29:11] created .\logs\shee.txt
+[2025-09-13 22:29:37] deleted .\logs\shee.txt
+[2025-09-13 22:31:29] monitor stopped
